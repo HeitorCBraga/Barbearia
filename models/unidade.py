@@ -3,5 +3,5 @@ class unidade:
         self.nome = nome_da_unidade
         self.endereco = endereco
     
-    def __str__ (str):
-       return f'{self.nome_da_unidade} {self.endereço}' 
+    def __str__ (self,):
+       return f'{self.nome} - {self.endereco}' 
